@@ -342,7 +342,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties**<br>
-<p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM (resigned from politics in January 2022)<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation</p><br>
+<p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -652,10 +652,10 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 4.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 73,000 active troops (70,000 Army; 1,500 Navy; 1,500 Air Force) (2024)<br>
+approximately 70-75,000 active troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments to Lebanon; the country's economic crisis has severely limited military procurement (2024)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries, including the US; the country's economic crisis has limited military procurement efforts (2024)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for men and women for voluntary military service; no conscription (2024)<br>

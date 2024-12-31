@@ -391,13 +391,13 @@ _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 <strong>note:</strong> adopted 1946; the shortened version of the anthem is used most commonly, while the full version is reserved for special occasions<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas (Kastrom Mefa'a) (c); Wadi Rum Protected Area (m); Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c); As-Salt - The Place of Tolerance and Urban Hospitality (c)<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: <p>Petra (c); Quseir Amra (c); Um er-Rasas (Kastrom Mefa'a) (c); Wadi Rum Protected Area (m); Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c); As-Salt - The Place of Tolerance and Urban Hospitality (c); Umm Al-Jimāl (c)</p><br>
 
 ## Economy
 
 **Economic overview**<br>
-low growth, upper middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; key US foreign assistance recipient; natural resource-poor and import-reliant<br>
+<p>upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant </p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $106.806 billion (2023 est.)<br>

@@ -408,8 +408,8 @@ _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
 <strong>note:</strong> adopted 1992<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 11 (9 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien National Park (n); Fasil Ghebbi, Gondar Region (c); Axum (c); Lower Valley of the Awash (c); Lower Valley of the Omo (c); Tiya (c); Harar Jugol, the Fortified Historic Town (c); Konso Cultural Landscape (c); Gedeo Cultural Landscape (c)<br>
+_total World Heritage Sites_: 12 (10 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: <p>Rock-Hewn Churches, Lalibela (c); Simien National Park (n); Fasil Ghebbi, Gondar Region (c); Aksum (c); Lower Valley of the Awash (c); Lower Valley of the Omo (c); Tiya (c); Harar Jugol, the Fortified Historic Town (c); Konso Cultural Landscape (c); Gedeo Cultural Landscape (c); Bale Mountains National Park (n); Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia (c)</p><br>
 
 ## Economy
 
@@ -691,7 +691,7 @@ Ethiopian National Defense Force (ENDF): Ground Forces (Army), Ethiopian Air For
 0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; prior to the 2020-2022 Tigray conflict, approximately 150,000 active-duty troops (2023)<br>
+available information varies widely; estimated 150-300,000 active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ENDF's major weapons and equipment inventory has traditionally been comprised of Russian, Soviet, and Eastern bloc material; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles under license (2024)<br>

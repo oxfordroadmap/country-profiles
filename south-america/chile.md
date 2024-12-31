@@ -345,7 +345,6 @@ _election results_: <br><em>2021: </em>Gabriel BORIC elected president in secon
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
 _election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), AD 4 (PCCh 2, FREVS 2), PLR 1, independent 2; composition - men 37, women 13, percentage women 26%<br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, PH 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percentage women 35.5%; total National Congress percentage women 33.2% as of January 2024<br>
-<strong>note:</strong> Senate seats by party/coalition as of May 2022 - ChP+ 24 (RN 12, UDI 9, EVOPOLI 3), NPS 18 (PS 7, PPD 6, PDC 5), AD 6 (PCCh 2, FREVS 2, RD 2), PLR 1, independent 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members and is independent of the rest of the judiciary); Elections Qualifying Court (consists of 5 members)<br>
@@ -687,10 +686,10 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 approximately 80,000 active armed forces personnel (45,000 Army; 25,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles&nbsp; (2024)<br>
+the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2024)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service for men; 17-24 for women; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2023)<br>
+17 or 18 for voluntary military service for men and women; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2024)<br>
 <strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>

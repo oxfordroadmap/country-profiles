@@ -305,7 +305,7 @@ Independence Day, 17 August (1960)<br>
 mixed legal system of French civil law and customary law<br>
 
 **Constitution**<br>
-_history_: previous 1961; latest drafted May 1990, adopted 15 March 1991, promulgated 26 March 1991<br>
+_history_: previous 1961, 1991; latest approved in November 2024 referendum<br>
 _amendments_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended; amended several times, last in 2023 (presidential term reduced to 5 years and election reduced to a single vote)<br>
 
 **International law organization participation**<br>
@@ -328,7 +328,7 @@ _elections/appointments_: formerly, the president directly elected by plurality 
 _election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3%<br>
 
 **Legislative branch**<br>
-_description_: Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA) <br>note - all members represent legally recognized political parties or leading political figures, civil society, and defense and security forces<br>
+_description_: Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA)<br>
 _elections_: on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025<br>
 _election results_: all members of the Transitional Parliament appointed by the Transitional president<br>
 
@@ -651,7 +651,7 @@ _key ports_: Libreville, Oguendjo Terminal, Port Gentil, Port Owendo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and Security Forces or Forces de Défense et de Sécurité Gabonaises) : Army (Armée de Terre, AT), Navy (Marine Nationale, MN), Air Force (l'Armée de l'Air, AA), Light Aviation (L’Aviation Légère des Armées, ALA), Fire Brigade (du Corps des Sapeurs-Pompiers); National Gendarmerie (Gendarmerie Gabonaise, GENA); Republican Guard (Garde Républicaine,GEN GR); Military Health Service (Service de Santé Militaire, SSM); Military Engineering (Génie Militaire)  (2024)<br>
+Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and Security Forces of Gabon or des Forces Nationales de Défense et de Sécurité (FNDS) du Gabon): Army (Armée de Terre, AT), Navy (Marine Nationale, MN), Air Force (l'Armée de l'Air, AA), Light Aviation (L’Aviation Légère des Armées, ALA), Fire Brigade (du Corps des Sapeurs-Pompiers); National Gendarmerie (Gendarmerie Gabonaise, GENA); Republican Guard (Garde Républicaine, GR); Military Health Service (Service de Santé Militaire, SSM); Military Engineering (Génie Militaire) (2024)<br>
 <strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie (GENA), under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the GENA is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
@@ -662,16 +662,16 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active-duty troops including the Republican Guard and Gendarmerie (2023)<br>
+approximately 7,000 active-duty troops including the Republican Guard and Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Gabonese military has a mix of older and more modern weapons and equipment from a variety of suppliers including Brazil, China, France, Germany, Russia/former Soviet Union, and South Africa (2024)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service; no conscription (2023)<br>
+18-24 years of age for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019 (2024)<br>
+the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; the military may also participate in the economic and social development work of the nation; in August 2023, officers from the Republican Guard seized control of the government and placed the president under arrest; the coup leader and chief of the Republican Guard, Gen. Brice OLIGUI Nguema, was subsequently announced as the leader of a transitional government (2024)<br>
 
 ## Space
 

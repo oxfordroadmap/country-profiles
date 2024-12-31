@@ -364,7 +364,7 @@ AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confedera
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Adam KRZYWOSĄDZKI (since 31 July 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bogdan KLICH (since 18 November 2024)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
 _FAX_: [1] (202) 328-2152<br>
@@ -696,7 +696,7 @@ approximately 210,000 including air, ground, naval, special forces, and Territor
 <strong>note: </strong>a new national defense law in 2022 set a goal to double the size of Poland’s armed forces to 300,000 personnel, including 250,000 professional soldiers and 50,000 territorials<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2024)<br>
+the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2024)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022-2023, it signed large military weapons contracts with South Korea, the UK, and the US<br>
 
 **Military service age and obligation**<br>

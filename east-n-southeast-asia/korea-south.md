@@ -325,12 +325,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President YOON Suk Yeol (since 10 May 2022)<br>
-_head of government_: President YOON Suk Yeol (since 10 May 2022)<br>
+_chief of state_: President YOON Suk Yeol (since 10 May 2022); note - Prime Minister HAN Duck-soo became Acting President on 14 December 2024, after the National Assembly impeached and suspended YOON from office; South Korea's Constitutional Court has 180 days to rule on YOON's removal<br>
+_head of government_: President YOON Suk Yeol (since 10 May 2022); note - Prime Minister HAN Duck-soo became Acting President on 14 December 2024, after the National Assembly impeached and suspended YOON from office; South Korea's Constitutional Court has 180 days to rule on YOON's removal<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly<br>
 _election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
-<strong>note: </strong>the president is both chief of state and head of government; Prime Minister HAN Duck-soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
+<strong>note: </strong>the president is both chief of state and head of government; the prime minister (HAN Duck-soo since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Gukhoe (300 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties**<br>
-Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance Coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
+Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CABEI, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -687,7 +687,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 approximately 500,000 active-duty personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, naval ships, and missiles; its weapons are designed to be compatible with US and NATO systems; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2024)<br>
+the South Korean military is equipped with a mix of mostly modern domestically produced and imported weapons systems, particularly from the US; South Korea's defense industry produces a wide range of military hardware for both domestic use and export, including armored fighting vehicles, artillery, aircraft, missiles, and naval ships; it also jointly produces equipment with other countries (2024)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines, auxiliary police), 20 months (Navy, conscripted firefighters), 21 months (Air Force, social service), 36 months for alternative service; 18-29 years of age for voluntary military service for men and women (2024)<br>

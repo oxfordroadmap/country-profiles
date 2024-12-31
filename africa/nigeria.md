@@ -346,8 +346,9 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023)<br>
 _head of government_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
-_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 25 February 2023 (next to be held on 27 February 2027) note - the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
+_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 25 February 2023 (next to be held on 27 February 2027)<br>
 _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36.6%, Atiku ABUBAKAR (PDP) 29.1%, Peter OBI (LP) 25.4%, Rabiu KWANKWASO (NNPP) 6.4%, other 2.5%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8% <p> </p><br>
+<strong>Note </strong>- the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -389,9 +390,9 @@ three equal vertical bands of green (hoist side), white, and green; the color gr
 eagle; national colors: green, white<br>
 
 **National anthem**<br>
-_name_: "Arise Oh Compatriots, Nigeria's Call Obey"<br>
-_lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI and P.O. ADERIBIGBE/Benedict Elide ODIASE<br>
-<strong>note:</strong> adopted 1978; lyrics are a mixture of the five top entries in a national contest<br>
+_name_: "Nigeria, We Hail Thee"<br>
+_lyrics/music_: Lillie Jean WILLIAMS/Frances BERDA<br>
+<strong>note:</strong> May 2024 Parliament voted to revert back to the former national anthem used from 1960-1078  <br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

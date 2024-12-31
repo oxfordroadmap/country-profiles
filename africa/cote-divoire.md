@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010)<br>
 _head of government_: Prime Minister Robert BREUGRE MAMBE (since 17 October 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br><br><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%<br>
 
 **Legislative branch**<br>
@@ -690,7 +690,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2023)<br>
+approximately 20-25,000 active FACI troops; approximately 5,000 Gendarmerie (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and second-hand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>
